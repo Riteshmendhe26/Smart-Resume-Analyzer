@@ -14,3 +14,4 @@ pyjwt
 ollama
 groq
 reportlab
+gunicorn
