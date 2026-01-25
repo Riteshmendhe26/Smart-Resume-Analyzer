@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-[#f7f8fc] to-[#eef1f5] min-h-screen text-gray-900;
+  font-family: 'Inter', sans-serif;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(25px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+mark {
+  border-radius: 6px;
+  padding: 2px 4px;
+  font-weight: 600;
+}
+
