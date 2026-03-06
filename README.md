@@ -175,7 +175,7 @@ Stored information includes:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-resume-analyzer.git
+git clone [https://github.com/yourusername/smart-resume-analyzer.git](https://github.com/Riteshmendhe26/Smart-Resume-Analyzer.git)
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -281,4 +281,5 @@ https://github.com/riteshmendhe2602
 ---
 
 ⭐ If you like this project, give it a **star on GitHub**.
+
 
